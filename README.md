@@ -1,4 +1,4 @@
-## Hi there 👋
+## Wadup peeps! 👋
 
 <!-- Stats -->
 <div align="center">
@@ -51,14 +51,6 @@
 <div align="center">
   
 ## <a href = "https://hodame.vercel.app">🌐 Connect with Me 🍬</a>
-<!--  
-[![Behance](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/6ME9TDt) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/technologyhell) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/technologyhell)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/technologyhell) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/technologyhell) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technologyhell) 
--->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/horthman-odame-199143199/)
 </div>
 
@@ -72,10 +64,10 @@
 
 
 
-<!-- Counter
+<!-- Counter -->
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=horthman&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 </div>
- -->
+ 
 
