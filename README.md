@@ -63,11 +63,34 @@
 </div>
 
 
-
 <!-- Counter -->
 <div align="center">
   
   [![](https://visitcount.itsvg.in/api?id=horthman&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 </div>
- 
+
+
+
+
+ <!-- 
+# Supabase Configuration
+NEXT_PUBLIC_SUPABASE_URL=https://dummyproject.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=dummy-anon-key-1234567890
+SUPABASE_SERVICE_ROLE_KEY=dummy-service-role-key-0987654321
+
+# Paystack Configuration
+NEXT_PUBLIC_PAYSTACK_PUBLIC_KEY=pk_test_dummypublickey1234567890
+PAYSTACK_SECRET_KEY=sk_test_dummysecretkey0987654321
+
+# No NextAuth needed - using Supabase Auth only
+
+# App Configuration
+NEXT_PUBLIC_APP_URL=https://dummyapp.vercel.app
+NEXT_PUBLIC_APP_NAME=DummyApp
+
+# Environment
+NODE_ENV=development
+
+-->
+
 
